@@ -1,2 +1,2 @@
-ingredientes = Tortillas, carne, cilantro, cebolla, limon, salsa verde
+ingredientes = Tortillas, carne, cilantro, cebolla, limon, salsa roja
 preparacion: calentar tortilla, agregar carne y toppings
